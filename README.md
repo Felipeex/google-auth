@@ -1,3 +1,7 @@
+## Google Auth
+
+![alt text](https://github.com/Felipeex/google-auth/blob/master/source/screen.png)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
